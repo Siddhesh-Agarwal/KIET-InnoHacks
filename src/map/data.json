@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Yoga classes",
+        "Yoga Center",
+        "Yogshala",
+        "Sparsh Yoga Center",
+        "The Yogaguru",
+        "Aerobics And Yoga Center",
+        "Power Yoga Studio"
+    ],
+    "lat": [
+        28.666712,
+        28.673916,
+        28.669731,
+        28.641869,
+        28.590590,
+        28.669306,
+        28.662592
+    ],
+    "lon": [
+        77.452766,
+        77.473236,
+        77.455711,
+        77.373177,
+        77.366203,
+        77.379417,
+        77.314575
+    ]
+}
